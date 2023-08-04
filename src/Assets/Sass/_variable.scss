@@ -1,0 +1,67 @@
+    $main-dark: #000000;
+    $main-white: #FFFFFF;
+    $main-red: #c61a23;
+    $main-red-alpha:rgba(198, 26, 35, 60%);
+    $x-dark: #050505;
+    $xx-dark: #0E050A;
+    $xxx-dark: #121212;
+    $x-gray: #707070;
+    $x-light: #F2F2F2;
+    $xx-light: #D5D0D0;
+    $xxx-light:#A19B9B;
+    $x-white: #F7F7F7;
+    $x-blue: #004785;
+    $x-yellow: #F5B20C;
+
+    $bgColors:($main-dark: $main-dark,
+        $main-white: $main-white,
+        $main-red-alpha: $main-red-alpha,
+        $xxx-dark: $xxx-dark,
+        $x-light: $x-light,
+        $x-white: $x-white,
+    );
+
+    $f-Roboto: Roboto;
+    $f-openSans: openSans;
+    $f-Regular: Regular;
+
+    $f-title-secondary: 20px Corbel_Bold;
+    $f-secondary: 16px Gothic_reqular;
+    $f-primary: 16px Gothic_bold;
+    $f-title-slider-sm:34px Cheapsman;
+    $f-title-slider:50px Cheapsman;
+    $f-counter-slider:30px Cheapsman;
+    $f-small-item-description: 12px Bahnschrift;
+    $f-components: 14px Bahnschrift;
+
+    $fs-sm: 12px;
+    $fs-xsm: 14px;
+    $fs-xxsm: 15px;
+    $fs-md: 16px;
+    $fs-xmd: 18px;
+    $fs-xxmd: 19px;
+    $fs-xxxmd: 20px;
+    $fs-xxxxmd: 22px;
+    $fs-lg: 28px;
+    $fs-xlg: 30px;
+    $fs-mmxl: 34px;
+    $fs-mmmxl: 36px;
+    $fs-mmmmxl: 44px;
+    $fs-mmmmmxl: 51px;
+    $fs-mmmmmmxl: 69px;
+    $fs-mmmmmmmxl: 217px;
+
+    $fw-light: 300;
+    $fw-normal: 400;
+    $fw-medium: 500;
+    $fw-semibold: 600;
+    $fw-extrabold: 700;
+    $fw-black: 800;
+    $fw-bold: 900;
+
+    $border-red:1px solid #C61A23;
+    $border-white:1px solid #FFFFFF;
+    $border-light:1px solid #D5D0D0;
+    $border-gray:1px solid #ABAAAA;
+    $border-xlight:1px solid #A19B9B;
+    $border-xxlight:1px solid #707070;
